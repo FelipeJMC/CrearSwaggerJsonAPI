@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Prototipos\\CrearSwaggerJSON\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{20B23DE7-614C-4EE0-BE59-B33F4FDBA2AB}|CrearSwaggerJSON\\CrearSwaggerJSON.csproj|d:\\prototipos\\crearswaggerjson\\crearswaggerjson\\controllers\\swaggercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20B23DE7-614C-4EE0-BE59-B33F4FDBA2AB}|CrearSwaggerJSON\\CrearSwaggerJSON.csproj|solutionrelative:crearswaggerjson\\controllers\\swaggercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20B23DE7-614C-4EE0-BE59-B33F4FDBA2AB}|CrearSwaggerJSON\\CrearSwaggerJSON.csproj|d:\\prototipos\\crearswaggerjson\\crearswaggerjson\\models\\swaggeparametrosmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20B23DE7-614C-4EE0-BE59-B33F4FDBA2AB}|CrearSwaggerJSON\\CrearSwaggerJSON.csproj|solutionrelative:crearswaggerjson\\models\\swaggeparametrosmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SwaggerController.cs",
+              "DocumentMoniker": "D:\\Prototipos\\CrearSwaggerJSON\\CrearSwaggerJSON\\Controllers\\SwaggerController.cs",
+              "RelativeDocumentMoniker": "CrearSwaggerJSON\\Controllers\\SwaggerController.cs",
+              "ToolTip": "D:\\Prototipos\\CrearSwaggerJSON\\CrearSwaggerJSON\\Controllers\\SwaggerController.cs",
+              "RelativeToolTip": "CrearSwaggerJSON\\Controllers\\SwaggerController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T13:16:00.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SwaggeParametrosModel.cs",
+              "DocumentMoniker": "D:\\Prototipos\\CrearSwaggerJSON\\CrearSwaggerJSON\\Models\\SwaggeParametrosModel.cs",
+              "RelativeDocumentMoniker": "CrearSwaggerJSON\\Models\\SwaggeParametrosModel.cs",
+              "ToolTip": "D:\\Prototipos\\CrearSwaggerJSON\\CrearSwaggerJSON\\Models\\SwaggeParametrosModel.cs",
+              "RelativeToolTip": "CrearSwaggerJSON\\Models\\SwaggeParametrosModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T13:10:18.51Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
